@@ -1,2 +1,2 @@
-$ git echo "#!/bin/bash"
-$ git echo "pwd"
+$git #!/bin/bash
+$git pwd
